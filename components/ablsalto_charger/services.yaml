@@ -1,0 +1,7 @@
+charge:
+  description: Start charging with a specific current.
+  fields:
+    charging_current:
+      description: Charging current in the format "30A"
+      example: "30A"
+      required: true

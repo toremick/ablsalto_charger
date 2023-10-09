@@ -1,0 +1,7 @@
+{
+  "domain": "ablsalto_charger",
+  "name": "Charger",
+  "documentation": "https://github.com/yourusername/charger_integration",
+  "dependencies": [],
+  "codeowners": []
+}
